@@ -29,7 +29,7 @@ class PeopleList extends StatelessWidget {
               ),
               elevation: 0.0,
               title: Text(
-                '수급자 목록',
+                '목록',
                 style: TextStyle(
                   color: Colors.black,
                   fontSize: 18,
